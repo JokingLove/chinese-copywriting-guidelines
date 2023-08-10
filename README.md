@@ -93,7 +93,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ### 不重複使用標點符號
 
-即使中國大陸的標點符號用法允許重複使用標點符號，但是這麼做會破壞句子的美觀性。
+雖然中國大陸的標點符號用法允許重複使用標點符號，但是這麼做會破壞句子的美觀性。
 
 正確：
 
@@ -133,6 +133,8 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
+例外：中文句子內夾有英文書籍名、報刊名時，不應借用中文書名號，應以英文斜體表示。
+
 ### 數字使用半形字符
 
 正確：
@@ -151,7 +153,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 
-> 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+> 推薦你閱讀 *Hackers & Painters: Big Ideas from the Computer Age*，非常地有趣。
 
 錯誤：
 
@@ -245,6 +247,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [pangu.php](https://github.com/cchlorine/pangu.php) | pangu | PHP
 [pangu.vim](https://github.com/hotoo/pangu.vim) | pangu | Vim
 [vue-pangu](https://github.com/serkodev/vue-pangu) | pangu | Vue.js (Web Converter)
+[intellij-pangu](https://plugins.jetbrains.com/plugin/19665-pangu) | pangu | Intellij Platform Plugin
 [autocorrect](https://github.com/huacnlee/autocorrect) | autocorrect | Rust, WASM, CLI tool
 [autocorrect-node](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-node) | autocorrect | Node.js
 [autocorrect-py](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-py) | autocorrect | Python

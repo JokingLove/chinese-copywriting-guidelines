@@ -130,6 +130,8 @@ Bad:
 >
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
 
+Exception: inline English titles of books and journals with italics, instead of fullwidth title marks.
+
 ### Use numbers in halfwidth form
 
 Good:
@@ -148,7 +150,7 @@ Good:
 
 > 賈伯斯那句話是怎麼說的？「Stay hungry, stay foolish.」
 >
-> 推薦你閱讀《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+> 推薦你閱讀 *Hackers & Painters: Big Ideas from the Computer Age*，非常地有趣。
 
 Bad:
 
@@ -242,6 +244,7 @@ Repository | Category | Language
 [pangu.php](https://github.com/cchlorine/pangu.php) | pangu | PHP
 [pangu.vim](https://github.com/hotoo/pangu.vim) | pangu | Vim
 [vue-pangu](https://github.com/serkodev/vue-pangu) | pangu | Vue.js (Web Converter)
+[intellij-pangu](https://plugins.jetbrains.com/plugin/19665-pangu) | pangu | Intellij Platform Plugin
 [autocorrect](https://github.com/huacnlee/autocorrect) | autocorrect | Rust, WASM, CLI tool
 [autocorrect-node](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-node) | autocorrect | Node.js
 [autocorrect-py](https://github.com/huacnlee/autocorrect/tree/main/autocorrect-py) | autocorrect | Python
